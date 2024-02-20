@@ -1,0 +1,59 @@
+{
+  "watches": [
+    {
+      "id": 1,
+      "brand": "Rolex",
+      "model": "Submariner",
+      "price": 8000,
+      "movement": "Automatic",
+      "case_material": "Stainless Steel",
+      "band_material": "Oystersteel",
+      "water_resistance": "300 meters",
+      "image": "https://example.com/rolex_submariner.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Omega",
+      "model": "Speedmaster Professional",
+      "price": 6000,
+      "movement": "Manual-winding",
+      "case_material": "Stainless Steel",
+      "band_material": "Steel",
+      "water_resistance": "50 meters",
+      "image": "https://example.com/omega_speedmaster.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "TAG Heuer",
+      "model": "Carrera",
+      "price": 4500,
+      "movement": "Automatic",
+      "case_material": "Stainless Steel",
+      "band_material": "Leather",
+      "water_resistance": "100 meters",
+      "image": "https://example.com/tag_heuer_carrera.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "Seiko",
+      "model": "SKX007",
+      "price": 250,
+      "movement": "Automatic",
+      "case_material": "Stainless Steel",
+      "band_material": "Rubber",
+      "water_resistance": "200 meters",
+      "image": "https://example.com/seiko_skx007.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Casio",
+      "model": "G-Shock",
+      "price": 100,
+      "movement": "Quartz",
+      "case_material": "Resin",
+      "band_material": "Resin",
+      "water_resistance": "200 meters",
+      "image": "https://example.com/casio_gshock.jpg"
+    }
+  ]
+}
